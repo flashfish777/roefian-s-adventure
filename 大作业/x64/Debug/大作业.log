@@ -1,0 +1,16 @@
+﻿  源.cpp
+D:\a.vs\大作业\源.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\a.vs\大作业\源.cpp(479,34): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\a.vs\大作业\源.cpp(484,34): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\a.vs\大作业\源.cpp(489,34): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\a.vs\大作业\源.cpp(509,39): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\a.vs\大作业\源.cpp(510,52): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\a.vs\大作业\源.cpp(516,39): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\a.vs\大作业\源.cpp(517,52): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\a.vs\大作业\源.cpp(527,38): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\a.vs\大作业\源.cpp(528,38): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\a.vs\大作业\源.cpp(1080,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\a.vs\大作业\源.cpp(2084,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\a.vs\大作业\源.cpp(2761,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\a.vs\大作业\源.cpp(3718,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  大作业.vcxproj -> D:\a.vs\大作业\x64\Debug\大作业.exe
